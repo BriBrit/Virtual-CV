@@ -35,7 +35,7 @@ sr.reveal('.about-img',{delay:300, origin:'top'});
 sr.reveal('.about-content h1',{delay:400, origin:'left'});
 sr.reveal('.about-content p',{delay:500, origin:'right'});
 sr.reveal('.text-animation',{delay:600, origin:'right'});
-sr.reveal('.navbar',{delay:700, origin:'up'});
+/*sr.reveal('.navbar',{delay:700, origin:'up'});*/
 
-sr.reveal('.social-media-icons',{delay:800, origin:'left'});
-sr.reveal('.btn-group',{delay:900, origin:'down'});
+sr.reveal('.social-media-icons',{delay:700, origin:'left'});
+sr.reveal('.btn-group',{delay:800, origin:'down'});
