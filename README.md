@@ -1,7 +1,11 @@
 # Virtual-CV
     About me:
         Personal and professional background.
-        Skills and expertise
+    Skills
+        Skills and expertise inputted
+        
+    Education
+        High school and university
 
     Portfolio:
         Showcase projects or work samples.
